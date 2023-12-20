@@ -54,4 +54,4 @@ Open and execute `analysis.ipynb` to run the NLP pipeline composed by *TF-ID* an
 The second notebook, i.e., `analysis_with_embeddings.ipynb`, contains the NLP pipeline using *SentenceTransformers* to extract sentence embeddings. Note that this second notebook requires a GPU, thus we suggest executing it on Google Colab using the embedded link in the notebook.
 Each notebook could be executed independently, downloading the required dataset in each execution. The script `download_dataset.py` could be used to download and store the dataset as CSV.
 
-Note: the reported NLP pipelines are based on my lab lessons for the course "Hands-On Machine Learning". For basic examples on the usage of the NLP libraries, please refer to the source repository [here](https://github.com/grosa1/hands-on-ml-tutorials/tree/master/tutorial_3).
+Note: The reported NLP pipelines are based on my lab lessons for the course "Hands-On Machine Learning". For basic examples of the usage of the NLP libraries, please refer to the source repository [here](https://github.com/grosa1/hands-on-ml-tutorials/tree/master/tutorial_3).

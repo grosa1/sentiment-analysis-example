@@ -1,7 +1,7 @@
 # Sentiment Analysis on the IMDb dataset
 
 ### **Context**
-This repository contains two notebooks reporting a small study to build sentiment analysis models on the IMDb dataset.
+This repository contains two notebooks reporting a small study aimed to build sentiment analysis models for the IMDb dataset
 Sentiment analysis is a common problem of Natural Language Processing (NLP) tasks to determine the so-called *sentiment*, i.e. if a word or sentence intrinsically contains a positive or negative tone.
 For example, the sentence "Today is a beautiful day" has a positive sentiment, while "I hate broccoli" has a negative sentiment.
 The context of the conducted analysis is represented by movie reviews from the IMDb dataset. In detail, the dataset contains several film reviews with the assigned score by the users (i.e., 1-10). Based on that score, they are grouped as "positive" and "negative".
